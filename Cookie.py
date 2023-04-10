@@ -1,2 +1,2 @@
 import Cookie
-import Cookie
+import Cookie.
